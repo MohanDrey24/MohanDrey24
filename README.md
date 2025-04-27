@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi. I'm Mohan Drey. I'm a full-stack web developer.
+Hi. I'm Mohan Drey. 
+I'm a full-stack web developer.
 
 
 ## 🌐 Socials:
