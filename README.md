@@ -1,6 +1,8 @@
 # 💫 About Me:
 Hi. I'm Mohan Drey. 
-I'm a full-stack web developer.
+I'm a full-stack web developer passionate about building meaningful and impactful projects.
+I'm currently launching an online magazine where I tear into life, politics, and technology with raw, unfiltered rants.
+
 
 
 ## 🌐 Socials:
